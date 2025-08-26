@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+
+# Environment files (anywhere in project)
+**/.env*
+
+# Node.js
+node_modules/
+dist/
+
+# Editor
+.vscode/
+
+# OS
+.DS_Store
+
+# Recordings / media (demo folder)
+demo/*.mp4
+demo/*.avi
+demo/*.mov
+demo/*.mkv
