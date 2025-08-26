@@ -106,7 +106,6 @@ POST /chat
 ## 📊 Performance
 
 - **Response Time**: 1-4 seconds per request
-- **Cost**: ~$0.001-0.003 per interaction  
 - **Memory**: O(n) storage per conversation thread
 
 ## 🏆 Key Features
