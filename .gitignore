@@ -20,3 +20,5 @@ demo/*.mp4
 demo/*.avi
 demo/*.mov
 demo/*.mkv
+
+.vite
