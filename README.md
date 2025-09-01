@@ -118,4 +118,6 @@ POST /chat
 
 ---
 
-**Built for the AI/ML Community** 🤖🐍
+## Demo
+
+🔗 **[View Demo](https://drive.google.com/drive/folders/1y-01LvVBOTN2ukTnVJz9gNeZtNEahiaI?usp=drive_link)**
